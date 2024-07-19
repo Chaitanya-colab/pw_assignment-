@@ -1,0 +1,3 @@
+Item 1: 50 units
+Item 2: 75 units
+Item 3: 100 units
